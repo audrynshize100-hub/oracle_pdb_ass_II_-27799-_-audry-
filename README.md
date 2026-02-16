@@ -38,16 +38,18 @@ All tasks were performed individually as required.
 - Created a user inside the PDB.
 - Verified successful execution.
 
-### Evidence
+---
 
-#### PDB Creation
+## Evidence – Task 1
+
+### PDB Creation
 ![PDB Creation](<Screenshot 2026 .PDB creation.png>)
 
-#### PDB Open State
-![PDB Open State](pdb%20open%20state.png)
+### PDB Open State
+![PDB Open State](<pdb open state.png>)
 
-#### User Created Inside PDB
-![User Created](Screenshot%202026%20user%20created.png)
+### User Created Inside PDB
+![User Created](<Screenshot 2026 user created.png>)
 
 ---
 
@@ -63,13 +65,15 @@ All tasks were performed individually as required.
 - Deleted it completely.
 - Confirmed it no longer exists.
 
-### Evidence
+---
 
-#### Temporary PDB Creation
-![Temp PDB Creation](Screenshot%202026%20.temp%20pdb%20creation.png)
+## Evidence – Task 2
 
-#### PDB Deletion
-![PDB Deletion](Screenshot%202026%20deletion%20of%20pdb.png)
+### Temporary PDB Creation
+![Temp PDB Creation](<Screenshot 2026 .temp pdb creation.png>)
+
+### PDB Deletion
+![PDB Deletion](<Screenshot 2026 deletion of pdb.png>)
 
 ---
 
@@ -82,22 +86,24 @@ All tasks were performed individually as required.
 - Verified username visibility.
 - Confirmed Oracle environment status.
 
-### Evidence
+---
 
-#### OEM Dashboard
-![OEM Dashboard](Screenshot%202026.%20OEM%20DASHBOARD.png)
+## Evidence – Task 3
 
-#### OEM Username Visible
-![OEM Username](Screenshot%202026%20user%20name%20oem.png)
+### OEM Dashboard
+![OEM Dashboard](<Screenshot 2026. OEM DASHBOARD.png>)
+
+### OEM Username Visible
+![OEM Username](<Screenshot 2026 user name oem.png>)
 
 ---
 
 # Challenges Faced
 
 - Initially attempted operations inside a PDB instead of CDB$ROOT.
-- Resolved by reconnecting correctly and verifying container before executing commands.
+- Resolved by reconnecting correctly and verifying the container before executing commands.
 
-No major issues encountered.
+No major issues were encountered.
 
 ---
 
@@ -120,3 +126,4 @@ Visibility: **PUBLIC**
 
 I confirm that this assignment was completed individually.  
 All commands were executed by me, and all screenshots reflect my own practical work.
+
