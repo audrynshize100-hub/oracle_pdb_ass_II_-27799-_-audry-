@@ -43,7 +43,7 @@ All tasks were performed individually as required.
 ## Evidence – Task 1
 
 ### PDB Creation
-![PDB Creation](pdb_creation.png)
+![PDB Creation](PDB_creation.png)
 
 ### PDB Open State
 ![PDB Open State](<pdb open state.png>)
