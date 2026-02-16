@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- **Name:** Audry Nshizirungu  
+- **Name:** Audry Nshizirungu Munyakazi
 - **Student ID:** 27799  
 - **Course:** Database Development with PL/SQL (INSY 8311)  
 - **Instructor:** Eric Maniraguha  
@@ -43,7 +43,7 @@ All tasks were performed individually as required.
 ## Evidence – Task 1
 
 ### PDB Creation
-![PDB Creation](<Screenshot 2026 .PDB creation.png>)
+![PDB Creation](pdb_creation.png)
 
 ### PDB Open State
 ![PDB Open State](<pdb open state.png>)
